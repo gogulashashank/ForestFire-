@@ -9,18 +9,18 @@ Dataset
 The dataset for this project is provided in the file forestdata.csv. A data dictionary describing the features in the dataset is also provided.
 Tasks
 
-    Exploratory Data Analysis (EDA): Perform EDA on the dataset to understand the distribution of the features, identify any missing values, and explore the relationships between the features and the target variable.
+Exploratory Data Analysis (EDA): Perform EDA on the dataset to understand the distribution of the features, identify any missing values, and explore the relationships between the features and the target variable.
 
-    Feature Engineering: Based on your understanding of the problem and the dataset, create any additional features that might be useful for the predictive models.
+Feature Engineering: Based on your understanding of the problem and the dataset, create any additional features that might be useful for the predictive models.
 
-    Model Development:
+Model Development:
         Logistic Regression: Develop a logistic regression model to predict whether a forest fire is likely or unlikely.
         Decision Tree: Develop a decision tree model to predict whether a forest fire is likely or unlikely.
         Neural Network: Develop a neural network model to predict whether a forest fire is likely or unlikely.
 
-    Model Evaluation: Evaluate the performance of the three models using appropriate metrics, such as accuracy, precision, recall, and F1-score.
+Model Evaluation: Evaluate the performance of the three models using appropriate metrics, such as accuracy, precision, recall, and F1-score.
 
-    Confusion Matrix: Plot the confusion matrix for each of the three models to visualize their performance.
+Confusion Matrix: Plot the confusion matrix for each of the three models to visualize their performance.
 
-    Model Comparison: Compare the performance of the three models and determine the best-performing model for the given problem.
+Model Comparison: Compare the performance of the three models and determine the best-performing model for the given problem.
 
